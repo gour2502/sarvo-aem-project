@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter vesion="1.0">
+    <filter root="/content/sarvo-aem-project"/>
+    <filter root="/content/dam/sarvo-aem-project"/>
+    <filter root="/etc/designs/sarvo-aem-project/jcr:content"/>
+</workspaceFilter>

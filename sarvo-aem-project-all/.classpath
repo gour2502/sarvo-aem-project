@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="src" path="/sarvo-aem-project-config"/>
+  <classpathentry kind="src" path="/sarvo-aem-project-view"/>
+  <classpathentry kind="src" path="/sarvo-aem-project-taglib"/>
+  <classpathentry kind="var" path="M2_REPO/com/squeakysand/jsp/squeakysand-jsp/0.3.0/squeakysand-jsp-0.3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/squeakysand/squeakysand-commons/0.3.0/squeakysand-commons-0.3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-io/commons-io/1.4/commons-io-1.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.6/commons-lang-2.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/squeakysand/squeakysand-osgi/0.2.0/squeakysand-osgi-0.2.0.jar"/>
+  <classpathentry kind="src" path="/sarvo-aem-project-services"/>
+</classpath>

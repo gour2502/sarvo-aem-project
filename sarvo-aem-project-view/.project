@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>sarvo-aem-project-view</name>
+  <comment>All of the CQ component and template definitions for the sarvo-aem-project project.
+
+        During development, the files in this module should be sync&apos;d to your CQ instance using the FileVault command
+        line tool available with CQ. There is also a plugin for Eclipse called &quot;vaultclipse&quot; that can be used instead
+        of the command line tool.
+
+        It is recommended that this module not contain any Java code and instead Java code should be placed in either
+        the sarvo-aem-project-taglib module or the sarvo-aem-project-services module as appropriate. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+    <buildCommand>
+      <name>org.eclipse.m2e.core.maven2Builder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+    <nature>org.eclipse.m2e.core.maven2Nature</nature>
+  </natures>
+</projectDescription>
