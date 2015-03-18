@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspaceFilter vesion="1.0">
+    <filter root="/apps/sarvo-aem">
+        <exclude pattern="/apps/sarvo-aem/install"/>
+        <exclude pattern="/apps/sarvo-aem/runmodes"/>
+    </filter>
+	<filter root="/etc/designs/sarvo-aem">
+        <exclude pattern="/etc/designs/sarvo-aem/jcr:content"/>
+    </filter>
+</workspaceFilter>
